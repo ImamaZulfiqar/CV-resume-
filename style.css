@@ -1,0 +1,27 @@
+#fdiv{
+    width:190px;
+    background-color:green;
+    /* height:100vh; */
+    
+}
+table{
+    height:100px;
+    width:100px;
+    background: size 100px;
+    background-color:green;
+}
+#rr{
+    background-color:white;
+}
+#sdiv{
+/* width:100vw; */
+width:1000px;
+/* height:100vh; */
+
+}
+#hr{
+   text-decoration: solid;
+}
+.blue{
+    color: rgb(28, 28, 71);
+}
